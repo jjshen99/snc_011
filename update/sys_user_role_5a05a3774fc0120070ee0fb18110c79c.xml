@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>sn_app_u02.user</name>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>jianjun.shen@snc</sys_created_by>
+        <sys_created_on>2015-12-07 21:58:16</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>5a05a3774fc0120070ee0fb18110c79c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_app_u02.user</sys_name>
+        <sys_package display_value="App_U02" source="sn_app_u02">8a0523774fc0120070ee0fb18110c734</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="App_U02">8a0523774fc0120070ee0fb18110c734</sys_scope>
+        <sys_update_name>sys_user_role_5a05a3774fc0120070ee0fb18110c79c</sys_update_name>
+        <sys_updated_by>jianjun.shen@snc</sys_updated_by>
+        <sys_updated_on>2015-12-07 21:58:16</sys_updated_on>
+    </sys_user_role>
+</record_update>

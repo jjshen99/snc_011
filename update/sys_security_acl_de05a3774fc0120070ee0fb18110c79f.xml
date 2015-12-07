@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on sn_app_u02_table</description>
+        <name>sn_app_u02_table</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>jianjun.shen@snc</sys_created_by>
+        <sys_created_on>2015-12-07 21:58:17</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>de05a3774fc0120070ee0fb18110c79f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_app_u02_table</sys_name>
+        <sys_package display_value="App_U02" source="sn_app_u02">8a0523774fc0120070ee0fb18110c734</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="App_U02">8a0523774fc0120070ee0fb18110c734</sys_scope>
+        <sys_update_name>sys_security_acl_de05a3774fc0120070ee0fb18110c79f</sys_update_name>
+        <sys_updated_by>jianjun.shen@snc</sys_updated_by>
+        <sys_updated_on>2015-12-07 21:58:17</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
